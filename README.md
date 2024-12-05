@@ -20,9 +20,10 @@ Software Engineer | Machine Learning Enthusiast | AI and Backend Developer
                       <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
               </p>
 *   🏆 Achievements<p align="left">
+      *   Developed multiple scalable APIs for document processing.
+      *   Successfully deployed machine learning models for real-world applications.
+      *   Improved background verification processes, reducing turnaround time by 40%.
 
-  Developed multiple scalable APIs for document processing.
+    
 
-  Successfully deployed machine learning models for real-world applications.
-
-  Improved background verification processes, reducing turnaround time by 40%.
+  
