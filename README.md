@@ -2,8 +2,8 @@ Hi 👋, I'm Tushar Goyal
 
 Software Engineer | Machine Learning Enthusiast | AI and Backend Developer
 
-✉️ Contact Me
-Email: tushargoyal2712@gmail.com
+ ✉️  You can contact me at [tushargoyal2712@gmail.com](mailto:tushargoyal2712@gmail.com)
+ 
 LinkedIn: linkedin.com/in/2712-tushar-goyal
 GitHub: github.com/Tushar-goyal-2712
 🛠️ Skills
